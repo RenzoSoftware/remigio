@@ -355,3 +355,4 @@ class VendedorController {
 }
 
 module.exports = VendedorController;
+module.exports = VendedorController;
