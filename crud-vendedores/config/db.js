@@ -3,7 +3,7 @@ const mysql = require("mysql2/promise");
 const pool = mysql.createPool({
   host: "shinkansen.proxy.rlwy.net",
   user: "root",
-  password: "zgdxlGKNcgxnZlXKwLJlbiswSGlfuXsD+",
+  password: "zgdxlGKNcgxnZlXKwLJlbiswSGlfuXsD",
   database: "railway",
   port: 42672,
   waitForConnections: true,
