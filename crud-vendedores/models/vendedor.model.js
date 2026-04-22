@@ -144,3 +144,4 @@ static async contarFiltrados(busqueda, tipo) {
 }
 
 module.exports = VendedorModel;
+module.exports = VendedorModel;
